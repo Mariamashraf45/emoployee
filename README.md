@@ -1,6 +1,6 @@
 # employee
 
-A new Flutter project.
+A new Flutter project with database Mongo DB
 
 ## Getting Started
 
